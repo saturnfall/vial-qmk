@@ -116,3 +116,8 @@ user_song_list.h
 compile_commands.json
 .clangd/
 .cache/
+
+# Ignore other keyboards
+keyboards/*
+!keyboards/saturnfall/*
+!keyboards/readme.md
